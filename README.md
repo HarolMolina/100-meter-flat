@@ -1,2 +1,2 @@
 # 100-meter-flat
-inspired by the past olympic games, a simple and multiplayer game for you to break your keyboard pressing a and b hehehe
+inspired by the past olympic games, a simple and multiplayer game for you, to break your keyboard pressing "a" and "b" hehehe...
